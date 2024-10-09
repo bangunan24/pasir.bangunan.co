@@ -89,14 +89,14 @@ paginate = 6
   name = "{Budi|Joko|Andi|Eko|Fajar|Hendra|Agus|Samsul|Rio|Yudi}"
   message = "{Saya membeli pasir dari pasir.bangunan.co untuk proyek {rumah|bangunan|renovasi} saya, dan hasilnya {sangat memuaskan|luar biasa|menakjubkan}. Kualitas pasir {sangat baik|berkualitas tinggi|premium} dan pengirimannya {tepat waktu|cepat|sesuai jadwal}.|Pasir dari pasir.bangunan.co {berkualitas|kokoh|premium} dan pengirimannya {cepat|tepat|efisien} sesuai harapan.}"
   response = "{Terima kasih atas {kepercayaan|pilihan} Anda! Kami {senang|gembira} dapat menyediakan pasir berkualitas untuk proyek Anda.|Kami {menghargai|berterima kasih atas} kepercayaan Anda. Terima kasih sudah memilih pasir kami.}"
-  rating = 4.6
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
   name = "{Siti|Rina|Dewi|Maya|Ayu|Sari|Fitri|Lina|Diah|Nur}"
   message = "{pasir.bangunan.co {sangat membantu|mempermudah|memberikan solusi} dalam memilih jenis pasir untuk rumah saya. Produk yang saya {beli|pilih} {berkualitas|premium|bermutu} dan sesuai dengan {kebutuhan|keperluan} saya.|Saya {sangat terbantu|sangat puas} dengan pilihan pasir dari pasir.bangunan.co. Kualitasnya {baik|tinggi|premium} dan tepat untuk kebutuhan saya.}"
   response = "{Kami sangat {menghargai|berterima kasih atas} ulasan Anda. {Senang mendengar|Bahagia mengetahui} bahwa Anda puas dengan pasir dari kami.|Terima kasih banyak atas kepercayaan Anda, kami sangat senang mendengarnya.}"
-  rating = 4.8
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar3.png"
@@ -110,7 +110,7 @@ paginate = 6
   name = "{Andi|Yanto|Toni|Faisal|Ari|Yoga|Agus|Gani|Dedi|Fajar}"
   message = "{Saya {sangat puas|senang|terkesan} dengan pasir dari pasir.bangunan.co. Kualitasnya {sangat baik|terbaik|tahan lama} dan {kokoh|kuat|awet} untuk proyek {konstruksi|bangunan|perumahan} saya.|Pasir dari pasir.bangunan.co {memuaskan|berkualitas tinggi|terbaik} dan sesuai dengan {kebutuhan|ekspektasi|standar} proyek saya.}"
   response = "{Senang mendengar Anda puas dengan produk kami. Terima kasih atas {kepercayaannya|pilihan Anda}!|Kami sangat {menghargai|berterima kasih atas} kepercayaan Anda. Terima kasih telah memilih produk kami.}"
-  rating = 4.8
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
