@@ -1,54 +1,53 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Yudi
+    name: Agus
     message: >-
-      Saya membeli pasir dari pasir.bangunan.co untuk proyek renovasi saya, dan
-      hasilnya menakjubkan. Kualitas pasir premium dan pengirimannya tepat
-      waktu.
+      Pasir dari pasir.bangunan.co kokoh dan pengirimannya efisien sesuai
+      harapan.
     response: >-
-      Terima kasih atas pilihan Anda! Kami gembira dapat menyediakan pasir
+      Terima kasih atas pilihan Anda! Kami senang dapat menyediakan pasir
       berkualitas untuk proyek Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Lina
+    name: Sari
     message: >-
       Saya sangat terbantu dengan pilihan pasir dari pasir.bangunan.co.
-      Kualitasnya premium dan tepat untuk kebutuhan saya.
+      Kualitasnya baik dan tepat untuk kebutuhan saya.
     response: >-
       Terima kasih banyak atas kepercayaan Anda, kami sangat senang
       mendengarnya.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Joko
+    name: Bayu
     message: >-
-      Pasir dari pasir.bangunan.co premium dan cocok untuk proyek bangunan saya.
-      Proses pembelian dan pengirimannya juga efisien.
+      Pasir dari pasir.bangunan.co premium dan cocok untuk proyek konstruksi
+      saya. Proses pembelian dan pengirimannya juga cepat.
     response: >-
       Terima kasih! Kami berkomitmen untuk menyediakan pasir berkualitas dengan
       pelayanan prima.
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Toni
+    name: Andi
     message: >-
       Saya senang dengan pasir dari pasir.bangunan.co. Kualitasnya sangat baik
-      dan kokoh untuk proyek bangunan saya.
+      dan awet untuk proyek bangunan saya.
     response: >-
       Senang mendengar Anda puas dengan produk kami. Terima kasih atas pilihan
       Anda!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Rina
+    name: Diah
     message: >-
-      Pelayanan pasir.bangunan.co luar biasa. Produk pasir yang saya pilih
-      sangat berkualitas dan sesuai dengan harapan saya.
+      Pelayanan pasir.bangunan.co terbaik. Produk pasir yang saya pilih bermutu
+      tinggi dan sesuai dengan kebutuhan saya.
     response: Terima kasih! Kami senang dapat membantu proyek Anda dengan pasir terbaik.
     rating: 5
   - avatar: /images/admin/avatar6.png
-    name: Iwan
+    name: Wawan
     message: >-
       Saya terkesan dengan pasir dari pasir.bangunan.co. Produk ini ideal dan
       pengirimannya aman.
     response: >-
-      Terima kasih telah memilih produk kami. Kami gembira Anda puas dengan
-      hasilnya.
+      Kami gembira mendengar bahwa Anda puas dengan produk kami. Terima kasih
+      atas kepercayaannya!
     rating: 4
